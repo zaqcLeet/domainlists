@@ -1,4 +1,4 @@
-chatgpt.com
-oaistatic.com
-oaiusercontent.com
-openai.com
+.chatgpt.com
+.oaistatic.com
+.oaiusercontent.com
+.openai.com
