@@ -71,3 +71,4 @@
 .web-instagram.net
 .wwwinstagram.com
 .routinehub.co
+.fbcdn.net
